@@ -26,7 +26,7 @@ import java.util.regex.Pattern;
 import javax.crypto.BadPaddingException;
 import javax.crypto.IllegalBlockSizeException;
 import javax.swing.JFileChooser;
-import javax.swing.UIManager;
+import javax.swing.UIManager;	//	Inhabilitado, se carga lento
 import javax.swing.UnsupportedLookAndFeelException;
 
 import org.eclipse.core.databinding.observable.Realm;
