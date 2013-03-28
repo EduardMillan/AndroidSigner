@@ -2,7 +2,7 @@
  * 	Android Signer 
  * 	Eduard Millán Forn
  * 	http://codementia.blogspot.com.es
- * 	Open Source
+ * 	Licencia Open Source
  */
 public interface CodigoPais {
 	
