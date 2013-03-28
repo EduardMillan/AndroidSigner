@@ -2,7 +2,7 @@
  * 	Android Signer 
  * 	Eduard Millán Forn
  * 	http://codementia.blogspot.com.es
- * 	Licencia Open Source
+ * 	Open Source
  */
 public class Idioma_ca_ES extends Idioma {
 	
